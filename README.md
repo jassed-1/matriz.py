@@ -22,7 +22,7 @@ Uso
 ---
 :
 
-colocar um numero em uma tabela
+Colocar um numero em uma tabela
 
 
 ----
