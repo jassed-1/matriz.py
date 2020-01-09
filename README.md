@@ -29,6 +29,6 @@ colocar um numero em uma tabela
 
 Exemplos
 --------
- 1 |3| 2
- --|4|--
- 6 |5| 7
+        1 |3| 2
+        --|4|--
+        6 |5| 7
